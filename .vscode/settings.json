@@ -1,0 +1,5 @@
+{
+    "snowflake.autocompleteObjectDetails.enabled": true,
+    "snowflake.autocompleteVariantKeys.enabled": true,
+    "snowflakeSqlLanguageServer.trace.server": "messages"
+}
